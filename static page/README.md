@@ -55,12 +55,6 @@ Follow these steps to host your static website on AWS S3:
     - Navigate to the "Properties" tab and load the bucket's endpoint. The "index.html" file will serve as the home page.
     - In case of an error (e.g., the index file is not available), the "error.html" page will be returned at the endpoint.
 
-## :page_with_curl: Sample Website Pages
-
-The article includes sample website pages for your reference:
-
-- **index.html**: A basic static web page with AWS S3-themed content.
-- **error.html**: A custom error page (404) for handling missing files.
 
 ## :tada: Conclusion
 
